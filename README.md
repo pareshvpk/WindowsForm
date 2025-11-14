@@ -49,4 +49,8 @@ This project is built for learning backend fundamentals in C# and understanding 
 ---
 
 ## 🗂 Project Structure
-
+├── Form1.cs # Insert Form
+├── Data.cs # View+Update+Delete Form
+├── App.config
+├── Program.cs
+└── README.md
